@@ -1,0 +1,10 @@
+name: GiveAll
+author: Askingg
+version: 1.0
+main: me.askingg.giveall.main.Main
+description: Make a giveall command for any existing command
+
+commands:
+  giveall:
+   description: GiveAll Base Command
+   aliases: [ga]
